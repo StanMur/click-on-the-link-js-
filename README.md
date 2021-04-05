@@ -2,9 +2,7 @@
 
 ### Обзор
 * Интро
-* Figma
 * Технологии
-* Ссылка на проект в GitHub Pages 
 * Ссылка проекта на хостинге GitHub Pages
 
 **Интро**
@@ -17,4 +15,4 @@ HTML
 CSS
 JS
 
-* [Ссылка проекта на хостинге GitHub Pages](https://stanmur.github.io/russian-travel/)
+* [Ссылка проекта на хостинге GitHub Pages](https://stanmur.github.io/click-on-the-link-js-/index.html)
